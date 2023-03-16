@@ -9,7 +9,9 @@
      * https://iximiuz.com/en/posts/ssh-tunnels/
      * https://www.ssh.com/academy/ssh/tunneling-example
     1-2. Remote port forwarding
+     * 상동
     1-3. Dynamic port forwarding
+    
 2. Socks5 proxy 구현 
     - ssh tunneling 이용해서
 3. Reverse Proxy 구현
