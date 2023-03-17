@@ -14,5 +14,13 @@
     
 2. Socks5 proxy 구현 
     - ssh tunneling 이용해서
+    - Dynamic port forwarding과 유사하여 1-3의 내용으로 갈음함
 3. Reverse Proxy 구현
-4. Socks5 reverse proxy 구현
+    1-1. Http Web server 구축이 필요한 상황(Nginx로 구성)
+        https://nginx.org/en/docs/beginners_guide.html
+        https://www.aosabook.org/en/posa/warp.html
+        https://extrememanual.net/9976
+        https://kscory.com/dev/nginx/install
+        https://12bme.tistory.com/366
+
+5. Socks5 reverse proxy 구현
